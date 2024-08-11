@@ -1,0 +1,58 @@
+@media screen and (max-width: 576px) {
+    /* body {
+        max-width: 576px;
+    } */
+    .total-w {
+        width: 90%;
+        margin: 0 auto;
+    }
+    .nav-tool {
+        display: none;
+    }
+    .bar {
+        display: block;
+        font-size: 30px;
+    }
+    .banner-content {
+        margin-top: 50px;
+    }
+
+    .banner-main {
+        display: block;
+        justify-content: space-between;
+        margin-top: 20px;
+    }
+    .banner-text {
+        color: #FFFFFF;
+        font-size: 3rem;
+    }
+    .button {
+        padding: 15px 25px;
+        border-radius: 25px;
+        font-size: 16px;
+        font-weight: 600;
+    }
+    .banner-img {
+        margin-top: 45px;
+        position: relative;
+    }
+    .video {
+        font-size: 10px;
+    }
+    .batch {
+        position: absolute;
+        bottom: -49%;
+        left: 9%;
+    }
+    .number-1 {
+        font-size: 25px;
+        font-weight: bold;
+    }
+    .workout {
+        font-size: 10px;
+    }
+    .batch-1 {
+        position: absolute;
+        top: 100%;
+    }
+}

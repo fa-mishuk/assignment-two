@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Grey+Qo&display=swap');
+
+body {
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+    background-color: black;
+    /* max-width: auto; */
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.color-1 {
+    color: #E6533CFF;
+}
+.color-2 {
+    color: #FFFFFF80;
+}
+
+
+
+.total-w {
+    width: 75%;
+    margin: 0 auto;
+}
+.banner-part {
+    background: linear-gradient(#11111100, #77777740, #77777740, #11111100);
+}
+.banner {
+    text-align: center;
+}
+.logo-text {
+    font-size: 2rem;
+    font-weight: 800;
+    font-style: italic;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+.nav-tool {
+    display: flex;
+    border: 1px solid #FFFFFF1A;
+    gap: 3rem;
+    padding: 2px;
+    padding-right: 15px;
+    border-radius: 20px;
+    text-align: center;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+}
+.bar {
+    display: none;
+    color: white;
+}
+.nav-tool h5 {
+    font-size: 1rem;
+    color: #FFFFFF;
+    font-weight: 400;
+}
+
+.nav-home {
+    background-color: #E6533CFF;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+}
+
+
+.banner-text {
+    color: #FFFFFF;
+    font-size: 4rem;
+}
+.span {
+    font-family: "Dancing Script", cursive;
+    font-style: italic;
+    font-weight: 100;
+}
+.btn-join-club {
+    background-color: #E6533CFF;
+    margin-right: 15px;
+    color: #FFFFFF;
+    border: none;
+}
+.btn-download {
+    color: white;
+    border: 1px solid white;
+    background-color: transparent;
+}
+.button {
+    padding: 1rem 3rem;
+    border-radius: 3rem;
+    font-size: 1rem;
+    font-weight: 600;
+}
+.banner-content {
+    margin-top: 90px;
+}
+.banner-p {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.banner-main {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.batch {
+    display: flex;
+    gap: 7px;
+    align-items: center;
+    background-color: #3030308A;
+    padding: 12px;
+    border-radius: 12px;
+    position: absolute;
+    bottom: 25%;
+    left: 60%;
+    border: 1px solid #3030308A;
+}
+.fa-play {
+    color: white;
+    background-color: #E6533CFF;
+    padding: 10px;
+    border-radius: 50%;
+}
+.number {
+    color: #FAFAF9FF;
+    font-size: 24px;
+    font-weight: bold;
+}
+.video {
+    color: #EFEDE8A6;
+    font-size: 13px;
+}
+.banner-img {
+    position: relative;
+}
+.number-1 {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+.workout {
+    font-size: 13px;
+    color: #FFFFFFA6;
+}
+.batch-1 {
+    padding: 15px;
+    border-radius: 12px;
+    background-color: #FFFFFF1A;
+    position: absolute;
+    top: 27%;
+    right: 11%;
+    border: 1px solid #FFFFFF1A;
+}
