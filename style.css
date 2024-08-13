@@ -344,6 +344,7 @@ td {
     background-color: #222222;
     margin-bottom: 90px;
 }
+
 .input {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -363,6 +364,7 @@ td {
     border: none;
     border-radius: 4px;
 }
+
 .btn-calculate {
     background-color: #E6533CFF;
     padding: 15px 50px;
@@ -372,12 +374,14 @@ td {
     margin-top: 20px;
     font-weight: 600;
 }
+
 /* forth part style end */
 /* fifth part start */
 .fifth-part-p {
     margin-top: 15px;
     margin-bottom: 55px;
 }
+
 .fifth-part-text {
     text-align: center;
 }
@@ -393,6 +397,7 @@ td {
     border-radius: 18px;
     background-color: #FFFFFF1A;
 }
+
 .grid-pic {
     background-size: cover;
     background-position: center;
@@ -400,48 +405,124 @@ td {
     height: 100%;
     width: 100%;
 }
+
 .fifth-part-h3 {
     color: white;
     font-size: 20px;
     margin-top: 66%;
     margin-left: 5%;
 }
+
 .fifth-p {
     margin-top: 5px;
     margin-left: 5%;
 }
+
 /* fifth part start */
+/* extra part start */
+.extra-part-header {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.extra-part-h3 {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.extra-part-h {
+    font-size: 48px;
+}
+
+.dollar {
+    display: flex;
+    font-size: 70px;
+    align-items: center;
+    font-weight: 900;
+    gap: 15px;
+    margin-bottom: 5px;
+    margin-top: 15px;
+    justify-content: center;
+}
+
+.price-h2 {
+    font-size: 32px;
+}
+
+.price-p1 {
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+.price-p {
+    margin-bottom: 10px;
+}
+
+.extra-part-price {
+    text-align: center;
+    margin-top: 50px;
+    border: 1px solid #FFFFFF1A;
+    padding: 40px 40px 0px 40px;
+    background-color: #FFFFFF1A;
+    border-radius: 12px;
+}
+
+.btn-enroll {
+    background-color: #E6533CFF;
+    padding: 15px 50px;
+    border-radius: 5px;
+    margin-top: 45px;
+    border: none;
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.extra-part-enroll {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* extra part end */
 /* footer part start */
 .footer-h1 {
     font-size: 70px;
     font-style: italic;
 }
+
 .footer-h3 {
     margin-bottom: 30px;
     font-size: 32px;
 }
+
 .footer-p {
     margin-bottom: 20px;
     color: #FFFFFF80;
     font-size: 20px;
 }
+
 .footer-h1 {
     margin-bottom: 20px;
 }
+
 .hr {
     border: 1px solid #FFFFFF1A;
     margin-top: 40px;
     margin-bottom: 30px;
 }
+
 .footer-p2 {
     font-size: 20px;
     text-align: center;
 }
+
 .footer-section {
     display: flex;
     justify-content: space-between;
     gap: 102px;
 }
+
 .footer {
     margin-top: 66px;
     padding: 66px 170px 30px 170px;
@@ -449,6 +530,3 @@ td {
 }
 
 /* footer part end */
-
-
-
