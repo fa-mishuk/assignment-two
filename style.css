@@ -301,8 +301,6 @@ body {
 /* styles.css */
 
 .bmi-table {
-    /* justify-content: center;
-    align-items: center; */
     width: 310px;
     height: 216px;
 }
@@ -342,7 +340,7 @@ td {
 .forth-part-left {
     display: flex;
     justify-content: space-between;
-    padding: 35px 180px;
+    padding: 35px 160px;
     background-color: #222222;
     margin-bottom: 90px;
 }
@@ -367,11 +365,12 @@ td {
 }
 .btn-calculate {
     background-color: #E6533CFF;
-    padding: 16px 40px;
+    padding: 15px 50px;
     border-radius: 42px;
     font-size: 18px;
     border: none;
     margin-top: 20px;
+    font-weight: 600;
 }
 /* forth part style end */
 /* fifth part start */
@@ -404,7 +403,7 @@ td {
 .fifth-part-h3 {
     color: white;
     font-size: 20px;
-    margin-top: 70%;
+    margin-top: 66%;
     margin-left: 5%;
 }
 .fifth-p {
@@ -445,7 +444,7 @@ td {
 }
 .footer {
     margin-top: 66px;
-    padding: 66px 190px 30px 190px;
+    padding: 66px 170px 30px 170px;
     background-color: #FFFFFF1A;
 }
 
