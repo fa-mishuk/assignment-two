@@ -208,12 +208,12 @@ body {
 
 .second-part-h {
     font-size: 48px;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }
 
 .second-part-p {
     font-size: 14px;
-    margin-bottom: 30px;
+    margin-bottom: 60px;
 }
 
 .second-part-text {
@@ -376,7 +376,7 @@ td {
 /* fifth part start */
 .fifth-part-p {
     margin-top: 15px;
-    margin-bottom: 30px;
+    margin-bottom: 55px;
 }
 .fifth-part-text {
     text-align: center;
@@ -425,9 +425,12 @@ td {
     color: #FFFFFF80;
     font-size: 20px;
 }
+.footer-h1 {
+    margin-bottom: 20px;
+}
 .hr {
     border: 1px solid #FFFFFF1A;
-    margin-top: 30px;
+    margin-top: 40px;
     margin-bottom: 30px;
 }
 .footer-p2 {
