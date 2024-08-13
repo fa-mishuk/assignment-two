@@ -89,7 +89,6 @@
     }
 
     /* second part style end */
-
     /* third part style start */
     .third-part-h {
         font-size: 32px;
@@ -110,7 +109,6 @@
     }
 
     /* third part style end */
-
     /* forth part style start */
     .forth-part-h {
         font-size: 32px;
@@ -147,7 +145,6 @@
         margin-bottom: 12px;
     }
     /* forth part style end */
-
     /* fifth part start */
 .fifth-part-h {
     font-size: 32px;
@@ -166,5 +163,9 @@
     width: 313px;
     margin: 0 auto;
 }
-    /* fifth part start */
+    /* fifth part end */
+    /* footer part start */ 
+
+    /* footer part end */    
+
 }
