@@ -341,7 +341,7 @@ td {
 .forth-part-left {
     display: flex;
     justify-content: space-between;
-    padding: 35px 205px;
+    padding: 35px 180px;
     background-color: #222222;
     margin-bottom: 90px;
 }
@@ -423,10 +423,26 @@ td {
 .footer-p {
     margin-bottom: 20px;
     color: #FFFFFF80;
-    font-size: px;
+    font-size: 20px;
 }
 .hr {
     border: 1px solid #FFFFFF1A;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.footer-p2 {
+    font-size: 20px;
+    text-align: center;
+}
+.footer-section {
+    display: flex;
+    justify-content: space-between;
+    gap: 102px;
+}
+.footer {
+    margin-top: 66px;
+    padding: 66px 190px 30px 190px;
+    background-color: #FFFFFF1A;
 }
 
 /* footer part end */
