@@ -1,4 +1,5 @@
 @media screen and (max-width: 576px) {
+
     /* body {
         max-width: 576px;
     } */
@@ -6,13 +7,16 @@
         width: 90%;
         margin: 0 auto;
     }
+
     .nav-tool {
         display: none;
     }
+
     .bar {
         display: block;
         font-size: 30px;
     }
+
     .banner-content {
         margin-top: 50px;
     }
@@ -22,37 +26,145 @@
         justify-content: space-between;
         margin-top: 20px;
     }
+
     .banner-text {
         color: #FFFFFF;
         font-size: 3rem;
     }
+
     .button {
-        padding: 15px 25px;
+        padding: 10px 15px;
         border-radius: 25px;
         font-size: 16px;
         font-weight: 600;
     }
+
     .banner-img {
         margin-top: 45px;
-        position: relative;
     }
+
     .video {
         font-size: 10px;
     }
+
     .batch {
-        position: absolute;
-        bottom: -49%;
-        left: 9%;
+        /* bottom: 6%;
+        right: 60%; */
+        /* bottom: -27%;
+        right: 60%; */
+        bottom: -20%;
+        right: 60%;
     }
+
     .number-1 {
         font-size: 25px;
         font-weight: bold;
     }
+
     .workout {
         font-size: 10px;
     }
+
     .batch-1 {
-        position: absolute;
-        top: 100%;
+        /* top: 70%;
+        right: 12%; */
+        top: 90%;
+        right: 5%;
     }
+
+    /* second Part style */
+
+    .second-part-pic {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        margin-top: 30px;
+    }
+
+    .pic-section {
+        margin-bottom: 40px;
+    }
+
+    .second-part-h {
+        font-size: 32px;
+    }
+
+    /* second part style end */
+
+    /* third part style start */
+    .third-part-h {
+        font-size: 32px;
+    }
+
+    .third-part {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .runner-pic {
+        max-width: 100%;
+        margin-top: 20px;
+    }
+
+    .third-part {
+        margin: 30px 0px 30px 0;
+    }
+
+    /* third part style end */
+
+    /* forth part style start */
+    .forth-part-h {
+        font-size: 32px;
+    }
+
+    .forth-part-text {
+        margin-bottom: 25px;
+    }
+
+    .bmi-h {
+        font-size: 16px;
+        font-weight: 900;
+        margin-bottom: 15px;
+    }
+
+    .forth-part-left {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        padding: 25px 15px;
+        background-color: #222222;
+        margin-bottom: 40px;
+    }
+
+    .btn-calculate {
+        padding: 12px 40px;
+        border-radius: 42px;
+        font-size: 16px;
+        margin-top: 15px;
+    }
+
+    .forth-left-h {
+        font-size: 16px;
+        font-weight: 900;
+        margin-bottom: 12px;
+    }
+    /* forth part style end */
+
+    /* fifth part start */
+.fifth-part-h {
+    font-size: 32px;
+    font-weight: 900;
+}
+.fifth-part-img {
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    gap: 20px;
+    height: 100%;
+    padding: 15px;
+}
+.grid-pic {
+    border-radius: 18px;
+    height: 300px;
+    width: 313px;
+    margin: 0 auto;
+}
+    /* fifth part start */
 }
