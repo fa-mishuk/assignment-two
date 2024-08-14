@@ -53,7 +53,7 @@
     }
 
     .batch {
-        bottom: -30%;
+        bottom: -25%;
         right: 60%;
     }
 
@@ -67,10 +67,8 @@
     }
 
     .batch-1 {
-        /* top: 70%;
-        right: 12%; */
-        top: 90%;
-        right: 5%;
+        top: 85%;
+        right: 17%;
     }
 
     /* second Part style */
