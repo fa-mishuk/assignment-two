@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Grey+Qo&display=swap');
+@import url('https://fonts.cdnfonts.com/css/miama');
 
 body {
     font-family: "Inter", sans-serif;
@@ -100,13 +100,15 @@ body {
 
 .banner-text {
     color: #FFFFFF;
-    font-size: 4rem;
+    font-size: 78px;
+    line-height: 85px;
 }
 
 .span {
-    font-family: "Dancing Script", cursive;
+    font-family: 'Miama', sans-serif;
     font-style: italic;
-    font-weight: 100;
+    font-size: 78px;
+    font-weight: 400;
 }
 
 .btn-join-club {
@@ -203,7 +205,7 @@ body {
 /* second part style start*/
 
 .second-part {
-    margin-top: 50px;
+    margin-top: 70px;
 }
 
 .second-part-h {
